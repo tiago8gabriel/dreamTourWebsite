@@ -17,7 +17,7 @@
       },
       {
         "name": "Source Code",
-        "href": "https://github.com/weijunext/ss",
+        "href": "https://github.com/ss/ss",
         "target": "_blank",
         "rel": "noopener noreferrer nofollow"
       },
@@ -43,35 +43,25 @@
               "name": "English",
               "useA": true
             },
-            {
-              "href": "/zh",
-              "name": "中文",
-              "useA": true
-            },
-            {
-              "href": "/ja",
-              "name": "日本語",
-              "useA": true
-            }
           ]
         },
         {
           "title": "Open Source",
           "links": [
             {
-              "href": "https://github.com/weijunext/nextjs-starter",
+              "href": "https://github.com/ss",
               "name": "Next.js Starter",
               "rel": "noopener noreferrer nofollow",
               "target": "_blank"
             },
             {
-              "href": "https://github.com/weijunext/landing-page-boilerplate",
+              "href": "https://github.com/ss/",
               "name": "Landing Page Boilerplate",
               "rel": "noopener noreferrer nofollow",
               "target": "_blank"
             },
             {
-              "href": "https://github.com/weijunext/weekly-boilerplate",
+              "href": "https://github.com/ss/",
               "name": "Blog Boilerplate",
               "rel": "noopener noreferrer nofollow",
               "target": "_blank"
